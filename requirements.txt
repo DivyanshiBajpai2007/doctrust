@@ -2,8 +2,7 @@ streamlit
 langchain
 langchain-groq
 langchain-community
+langchain-core
 chromadb
 pypdf2
-sentence-transformers
-langgraph
-huggingface-hub
+fastembed
