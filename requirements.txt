@@ -6,3 +6,5 @@ langchain-core
 chromadb
 pypdf2
 fastembed
+groq
+gTTS
